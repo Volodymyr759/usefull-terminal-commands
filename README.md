@@ -21,6 +21,8 @@ git switch main - switches to branch "main" from current branch
 git branch -D fixes - deletes existing branch "fixes" locally
 
 git pull origin main - pulls "main" branch from origin (github) to local computer
+  
+rename branch locallly - https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
 
 # Nextj
 nest g module auth - 
