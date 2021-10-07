@@ -5,6 +5,8 @@ git init - creates locally needed git-files for current project
 git remote add origin <link> - publish local project to existing repo
 
 git checkout <commit> - go to commit #f3e3bc5-version
+  
+git rm -r --cached file.ts - untracks file.ts from git system (also needed add file.ts to gitignore
 
 git checkout -b fixes - create and switch to new branch "fixes" locally
 
