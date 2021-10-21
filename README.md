@@ -39,3 +39,6 @@ npm run dev - generates tsconfig.ts
 
 # Heroku
 heroku logs --tail --app my_heroku_app_name
+  
+# PORT
+npx kill-port 3000 8080 4200
