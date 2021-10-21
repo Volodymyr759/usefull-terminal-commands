@@ -4,6 +4,8 @@ git init - creates locally needed git-files for current project
 
 git remote add origin <link> - publish local project to existing repo
 
+git pull <origin link> <origin branch (master}> - clone repo locally to empty folder (only with git init) from remote repository
+
 git checkout <commit> - go to commit #f3e3bc5-version
   
 git rm -r --cached file.ts - untracks file.ts from git system (also needed add file.ts to gitignore
