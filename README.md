@@ -25,8 +25,8 @@ git switch main - switches to branch "main" from current branch
 git branch -D fixes - deletes existing branch "fixes" locally
 
 git pull origin main - pulls "main" branch from origin (github) to local computer
-  
-rename branch locallly - https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
+ 
+git checkout <old_name> & git branch -m <new_name> - switch to <old_name> & rename
 
 git branch - list of branches
 
