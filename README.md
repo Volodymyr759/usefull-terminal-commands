@@ -28,6 +28,12 @@ git pull origin main - pulls "main" branch from origin (github) to local compute
   
 rename branch locallly - https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
 
+git branch - list of branches
+
+git branches -r - list of remote branches
+  
+git branch -a - to see all local and remote branches
+
 # Nextj
 nest g module auth - 
 nest g controller auth - 
