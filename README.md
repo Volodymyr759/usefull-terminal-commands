@@ -2,7 +2,7 @@
 # GitHub
 git init - creates locally needed git-files for current project
 
-git remote add origin <link> - publish local project to existing repo
+git remote add origin 'link to repo' - publish local project to existing repo
 
 git remote -v - check list of origins
 
