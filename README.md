@@ -50,6 +50,7 @@ heroku logs --tail --app my_heroku_app_name
   
 # NVM - changes current node-version
 usefull source: https://habr.com/ru/company/timeweb/blog/541452/
+
 Run cmd-window as Administrator
 
 nvm ls - list of installed node versions
