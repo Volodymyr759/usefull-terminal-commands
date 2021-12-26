@@ -51,9 +51,12 @@ heroku logs --tail --app my_heroku_app_name
 # NVM - changes current node-version
 usefull source: https://habr.com/ru/company/timeweb/blog/541452/
 Run cmd-window as Administrator
+
 nvm ls - list of installed node versions
+
 nvm install lts - installs latest node version
+
 nvm use 12.22.6 - changes current node-version in use to v12.22.6
-  
+
 # PORT
 npx kill-port 3000 8080 4200
