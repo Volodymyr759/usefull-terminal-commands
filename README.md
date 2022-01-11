@@ -32,7 +32,7 @@ git checkout <old_name> & git branch -m <new_name> - switch to <old_name> & rena
 
 git branch - list of branches
 
-git branches -r - list of remote branches
+git branch -r - list of remote branches
   
 git branch -a - to see all local and remote branches
 
