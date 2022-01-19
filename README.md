@@ -6,6 +6,8 @@ git remote add origin 'link to repo' - publish local project to existing repo
 
 git remote -v - check list of origins
 
+git remote show origin - shows origin url and branches
+
 git pull <origin link> <origin branch (master}> - clone repo locally to empty folder (only with git init) from remote repository
 
 git checkout <commit> - go to commit #f3e3bc5-version
