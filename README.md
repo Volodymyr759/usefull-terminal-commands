@@ -50,6 +50,8 @@ npm run dev - generates tsconfig.ts
 # Heroku
 heroku logs --tail --app my_heroku_app_name
   
+push local project to heroku repo and build - https://stackoverflow.com/questions/71892543/heroku-and-github-items-could-not-be-retrieved-internal-server-error
+  
 # NVM - changes current node-version
 usefull source: https://habr.com/ru/company/timeweb/blog/541452/
 
