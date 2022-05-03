@@ -38,7 +38,7 @@ git branch -r - list of remote branches
   
 git branch -a - to see all local and remote branches
 
-# Nextj
+# NextJS
 nest g module auth - 
 nest g controller auth - 
 nest g service auth --no-spec - generates service "auth" inside auth.module without test file
